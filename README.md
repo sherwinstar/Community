@@ -8,7 +8,7 @@ pod install
 ### 1.3 构建/打包&程序运行命令 building & starting commands
 pod install & xcodebuild
 ## 3. 项目文件结构 Project directory structure
-![avatar](screen_shot.png)
+![avatar](structure.png)
 ## 4. 附录 Appendix
 ### 4.1 统一缩写备注表 Abbreviation Form
 | 全称 Full name| 缩写 Abbreviation| 备注 Notes|
@@ -32,10 +32,7 @@ pod install & xcodebuild
 | MJPhotoBrowser  | 图片浏览 |  |  |
 
 
-## 5. 架构 Structure
-![avatar](structure.png)
-
-### 6. GUI
+## 5. GUI
 ![avatar](slider.png)
 ![avatar](main.png)
 ![avatar](detail.png)
